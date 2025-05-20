@@ -47,7 +47,8 @@ export const tabs = {
     }
 }
 ```
-
+### Main Menu Preview
+![Snímka obrazovky 2025-05-18 220814](https://github.com/user-attachments/assets/fe5a62de-444f-4f91-aae9-7a44a5121ad2)
 ## 2. Tables
 
 ### Definition
@@ -73,7 +74,8 @@ export const tables = {
     }
 }
 ```
-
+### Category Menu Preview
+![Snímka obrazovky 2025-05-18 220952](https://github.com/user-attachments/assets/12ac4bee-7e78-48c6-8ee0-e47ba618bce6)
 ## 3. Entries
 
 ### Definition
@@ -106,7 +108,8 @@ export const entries = {
     }
 }
 ```
-
+### Item Menu Preview
+![Snímka obrazovky 2025-05-18 221036](https://github.com/user-attachments/assets/02db58fb-c0f1-4ec1-be67-40fa7369a3c5)
 ## 4. Recipes
 
 ### Definition
@@ -162,7 +165,8 @@ Recipes describe how items are created or interacted with in-game.
 | `label` | `string[]` | Optional. Tooltip under the name.                                        |
 
 ---
-
+### Recipe Menu Preview
+![Snímka obrazovky 2025-05-18 181017](https://github.com/user-attachments/assets/c9cef945-12bd-4e1d-a8a5-72428e623486)
 ## 5. Examples
 
 ### 5.1 Tab Example

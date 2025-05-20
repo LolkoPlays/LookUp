@@ -212,9 +212,7 @@ export const entries = {
         entryData: {
             recipeSkip: true,
             name: "Flint Shank",
-            desc: ["
-§9+3 Attack Damage
-48 Durability"],
+            desc: ["§9+3 Attack Damage\n48 Durability"],
             category: "Progress",
             texture: "textures/rlc/items/sword/flint_shank"
         }

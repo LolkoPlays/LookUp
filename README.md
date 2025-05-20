@@ -1,7 +1,7 @@
 
 # LookUp Add-On Documentation
 
-LookUp is a powerful user interface extension for Minecraft Bedrock Edition add-ons, created by **NotŁolko**. It allows add-on developers to create rich, customizable in-game recipe and information guides.
+LookUp is a powerful user interface extension for Minecraft Bedrock Edition add-ons, created by **NotŁolko**. It allows add-on developers to create rich, customizable in-game recipes and information guides. Simply by adding an [export script](scripts/export.js) to your pack with appropriate data.
 
 ---
 

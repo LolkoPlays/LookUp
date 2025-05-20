@@ -1,7 +1,7 @@
 
 # LookUp Add-On Documentation
 
-LookUp is a powerful user interface extension for Minecraft Bedrock Edition add-ons, created by **NotŁolko**. It allows add-on developers to create rich, customizable in-game recipes and information guides. Simply by adding an [export script](scripts/export.js) to your pack with appropriate data.
+LookUp Framework is a powerful user interface system for Minecraft Bedrock Edition add-ons, created by NotŁolko. It enables developers to build rich, customizable in-game recipe views and information guides through a structured data-driven setup. To get started, simply include an [export script](scripts/export.js) in your pack that exports your data, and make sure both your pack and the LookUp Framework are enabled in your world.
 
 ---
 

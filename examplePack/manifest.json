@@ -1,0 +1,60 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"product_type": "addon",
+		"authors": [
+			"Łolko"
+		]
+	},
+	"header": {
+		"name": "Potion DLC for LookUp",
+		"description": "This is an example of how LookUp can be used in practice!",
+		"min_engine_version": [
+			1,
+			21,
+			70
+		],
+		"uuid": "906e3f4b-a704-4ec2-81d2-c2b1af5d740e",
+		"version": [
+			1,
+			0,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "data",
+			"uuid": "e046df43-7e51-49ed-8b06-578e241be2dc",
+			"version": [
+				1,
+				0,
+				0
+			]
+		},
+		{
+			"type": "script",
+			"language": "javascript",
+			"uuid": "90fff51f-7154-4abc-8221-699602af7a64",
+			"version": [
+				1,
+				0,
+				0
+			],
+			"entry": "scripts/main.js"
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "df911a29-d89b-477c-b4b2-a9b511304f73",
+			"version": [
+				1,
+				0,
+				0
+			]
+		},
+		{
+			"module_name": "@minecraft/server",
+			"version": "1.18.0"
+		}
+	]
+}

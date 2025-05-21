@@ -29,7 +29,7 @@ Tabs define how categories appear in the UI, controlling grouping, icons, and de
 | Key      | Type     | Description                                                   |
 | -------- | -------- | ------------------------------------------------------------- |
 | `tab`    | `string` | Optional. Tab group name. Defaults to `"Main"`.               |
-| `menu`   | `string` | Name shown in menu list. Defaults to category key.            |
+| `menu`   | `string` | Name shown in menu list.            |
 | `icon`   | `string` | Texture path for UI icon (e.g., `"textures/items/flint"`).    |
 | `body`   | `string` | Optional. Description under category name. Default is generic.|
 | `header` | `string` | Optional. Header in entry view. Default is `"Item Info"`.     |
